@@ -1,0 +1,5 @@
+export const imagesDataURL = [
+    'https://scontent.fvca1-4.fna.fbcdn.net/v/t39.30808-6/459414488_1204210337451125_1856492035645146974_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeG3KURjne7NHA9pBmgQziDuH7NGb9mPWacfs0Zv2Y9Zp6zP19c3kJk15qzAup5NI83mscy87vw-tlt_XCMGfsl0&_nc_ohc=twinyMbkqdgQ7kNvgEfFOY5&_nc_zt=23&_nc_ht=scontent.fvca1-4.fna&_nc_gid=A-2E3LF485-8kUwAWC3ew7b&oh=00_AYBfqWRBK7GdL_8Ob5WMFY6OOuX7518BUpG43750REkfvg&oe=6713DAF8',
+    'https://scontent.fvca1-4.fna.fbcdn.net/v/t39.30808-6/459414488_1204210337451125_1856492035645146974_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeG3KURjne7NHA9pBmgQziDuH7NGb9mPWacfs0Zv2Y9Zp6zP19c3kJk15qzAup5NI83mscy87vw-tlt_XCMGfsl0&_nc_ohc=twinyMbkqdgQ7kNvgEfFOY5&_nc_zt=23&_nc_ht=scontent.fvca1-4.fna&_nc_gid=A-2E3LF485-8kUwAWC3ew7b&oh=00_AYBfqWRBK7GdL_8Ob5WMFY6OOuX7518BUpG43750REkfvg&oe=6713DAF8',
+
+]
